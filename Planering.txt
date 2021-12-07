@@ -1,0 +1,12 @@
+Planering:
+1. Loop thru the dates while the vehicles drives thru. 
+
+2. Send the vehicles.
+
+3. Calc the fee everytime the vehicles drives thru including rush hour traffic.
+
+4. CurrentFee += totalFee to save the price of fee.
+
+5. If fee is higher than 60, set it to 60.
+
+6. Make a method to test thru TollCalculatorTest.
